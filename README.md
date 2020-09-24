@@ -39,7 +39,7 @@ As discussed in the paper, Latent Dirichlet Allocation (LDA) and Skip-gram are t
 
 ## Citation
 ```
-Rahimi, M.M., Naghizade, E., Stevenson M., Winter, S., Service Quality Monitoring in Confined Spaces Through Mining Twitter Data In Journal of Spatial Information Science.
+Rahimi,  M.M.,et  al.,  2020.  Service  quality  monitoring  in  confined  spaces  through  mining Twitter data. Journal of Spatial Information Science, 21.
 ```
 
 ## Author
